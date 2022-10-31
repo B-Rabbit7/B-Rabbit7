@@ -1,5 +1,6 @@
 
-![test2](https://user-images.githubusercontent.com/97206905/198910356-1af3e74c-c2d1-46a6-a075-bea9cad395e1.png)
+![Blue Yellow Futuristic Virtual Technology Blog Banner](https://user-images.githubusercontent.com/97206905/198912099-edbc3c4c-b645-46d3-ac75-7fe84574a45e.gif)
+
 
 
 //Professional intro of moi
