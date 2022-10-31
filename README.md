@@ -8,7 +8,7 @@
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-<a href="https://github.com/1999AZZAR/">
+<a href="https://github.com/B-Rabbit7/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: overall Top Langs " /></a>
 
