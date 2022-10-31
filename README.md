@@ -1,9 +1,14 @@
+![twets1](https://user-images.githubusercontent.com/97206905/198910307-c057b29e-9b10-4973-b317-48a8e566e83b.png)
+
+
 //Professional intro of moi
 
 
 //
+---------
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+
 --------
 
 
